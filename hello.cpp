@@ -6,6 +6,7 @@ int main()
     string str;
     cin>>str;
     size_t n=count(str.begin(),str.end(),'a');
+    cout<<"Hello";
     cout<<n;
 
 }

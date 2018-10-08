@@ -1,0 +1,7 @@
+git init //for initialising github
+git status // shoes unadded files
+git add hello_world.cpp 
+git status // shows that file is added
+git config --global user.name "sehajps" //
+git config --global user.name "sehajpalsingh121@gmail.com"
+git commmit -m "added hello_world" // shows this message , 
